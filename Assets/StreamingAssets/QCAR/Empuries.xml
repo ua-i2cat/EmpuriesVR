@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="casa_atri" size="1.000000 2.539785" />
+    <ImageTarget name="cisterna" size="1.000000 0.980240" />
+    <ImageTarget name="termes" size="1.000000 1.660356" />
+    <ImageTarget name="mosaic_grec" size="1.000000 1.660356" />
+    <ImageTarget name="filtre_aigua" size="1.000000 0.998601" />
+    <ImageTarget name="salaons" size="1.000000 1.657906" />
+    <ImageTarget name="askeplieion" size="1.000000 1.659824" />
+    <ImageTarget name="macellum" size="1.000000 1.688689" />
+    <ImageTarget name="palestra" size="1.000000 1.688915" />
+    <ImageTarget name="forn_ceramic" size="1.000000 0.925413" />
+    <ImageTarget name="acropolis" size="1.000000 0.728814" />
+    <ImageTarget name="factoria_de_metalls" size="1.000000 1.689021" />
+    <ImageTarget name="serapieion" size="1.000000 1.659824" />
+    <ImageTarget name="muralla_grega" size="1.000000 1.666667" />
+    <ImageTarget name="forn" size="1.000000 0.984300" />
+    <ImageTarget name="criptoportic" size="1.000000 1.662269" />
+    <ImageTarget name="agora_stoa" size="1.000000 1.657906" />
+    <ImageTarget name="muralla_romana" size="1.000000 1.659364" />
+    <ImageTarget name="amfiteatre" size="1.000000 1.659575" />
+    <ImageTarget name="domus" size="1.000000 1.660404" />
+    <ImageTarget name="forum" size="1.000000 1.659669" />
+    <ImageTarget name="ambulacre" size="1.000000 1.662269" />
+    <ImageTarget name="insula" size="1.000000 1.660134" />
+    <ImageTarget name="casa_peristil" size="1.000000 1.657906" />
+  </Tracking>
+</QCARConfig>
